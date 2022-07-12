@@ -7,8 +7,8 @@
 - git push 
  
  # create branch 
-- git branch -M "shubham"
-- git checkout shubham
+- git branch -M shubham // Only creates branch
+- git checkout shubham // creates branch and checks it also
 - ** make some changes **
 - git add .
 - git commit -m "MADE changes on file in beta branch"
