@@ -20,5 +20,23 @@
 - git merge origin/shubham
 - ** solve merge conflicts **
 - git push origin main
+
+# Pull a branch
+- git pull origin main
+
+# pull and push 
+- git add .
+- git commit -m "changes to be added"
+- git pull 
+- ** solve merge conflicts **
+- git push
+
+# remove your changes
+- git stash
+
+# download particular github folder
+- USING SVN turtle tool
+- svn checkout https://github.com/user/trunk/folder -> replaced tree/master with trunk
+
   
 
