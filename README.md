@@ -14,7 +14,7 @@
   git commit -m "MADE changes on file in beta branch"
   git push origin shubham
   
- # Now we have total of two branches "main" and "beta"
+ # Now we have total of two branches "main" and "shubham"
   git checkout main
   git fetch origin shubham
   git merge origin/shubham
